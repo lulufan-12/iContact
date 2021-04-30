@@ -4,7 +4,7 @@ iContact é um software de gerenciamento de contatos multiplataforma. Gerencie s
 
 ### Motivação
 
-Foi desenvolvido como um trabalho da cadeira de Desenvolvimento em Java, lecionado por meu professor Chessman Kennedy, do curso de Tecnologia da Comunicação e Informação da faculdade Faeterj-Petrópolis.
+Foi desenvolvido como um trabalho da cadeira de Desenvolvimento em Java, lecionado por Chessman Kennedy, do curso de Tecnologia da Comunicação e Informação da faculdade Faeterj-Petrópolis.
 
 ### Aprendizado
 
